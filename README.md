@@ -1,4 +1,4 @@
 # odin-recipe
-recipe project that contains a mainn index pages and links to a few recipes
+recipe project that contains a main index page and links to a few recipes
 
 
